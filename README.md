@@ -1,7 +1,7 @@
 - 👋 Hi, I’m YiweiSu
 - 👀 I’m interested in Java and Algorithm, majoring in Telecommunications Engineering in XiDian University.
 - 🌱 I’m currently learning Nginx, MQ.
-- 💞️ I’m looking to collaborate on (Nothing)
+- 💞️ I’m looking to ...
 - 📫 How to reach me
 
 <!---
