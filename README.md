@@ -1,10 +1,5 @@
-- 👋 Hi, I’m YiweiSu
-- 👀 I’m interested in Java and Algorithm, majoring in Telecommunications Engineering in XiDian University.
-- 🌱 I’m currently learning Nginx, MQ.
-- 💞️ I’m looking to ...
-- 📫 How to reach me
-
-<!---
-YiweiSu/YiweiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 I have graduated from Xidian University with a master's degree in Electronic Information (Information Transmission and Coding Theory).
+- 🚀 I am currently working as an application development engineer at Tencent, responsible for front-end and back-end technologies.
+- 👀 I’m interested in Java(long time no used), Go, Kubernetes.
+- 🌱 I’m currently learning LLM, Kubernetes.
+- 💞️ Keep your passion for technology and keep learning throughout your life.
